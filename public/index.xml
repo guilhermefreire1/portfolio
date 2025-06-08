@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Guilherme Freire</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Guilherme Freire</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automação de Relatórios Financeiros</title>
+      <link>http://localhost:1313/projects/projeto-automacao-financeira/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/projeto-automacao-financeira/</guid>
+      <description>Projeto de automação de relatórios com validações e cruzamentos entre sistemas usando Python e SQL.</description>
+    </item>
+    <item>
+      <title>Sobre mim</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Olá! Me chamo &lt;strong&gt;Guilherme Freire&lt;/strong&gt;, sou estudante de &lt;strong&gt;Sistemas de Informação na PUC Minas&lt;/strong&gt; e atuo na área de &lt;strong&gt;Eficiência Operacional no Inter&lt;/strong&gt;, com foco em &lt;strong&gt;engenharia e análise de dados&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Tenho experiência prática com:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 Extração e tratamento de dados em larga escala (SQL, Trino, PostgreSQL, Oracle)&lt;/li&gt;
+&lt;li&gt;🤖 Automatização de processos com Python e Alteryx&lt;/li&gt;
+&lt;li&gt;⚙️ Construção de pipelines de dados eficientes e confiáveis&lt;/li&gt;
+&lt;li&gt;📈 Visualização de dados com Tableau e Power Bi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Atualmente, estou aprofundando meus conhecimentos em &lt;strong&gt;Apache Airflow, dbt, Spark e cloud (GCP/AWS)&lt;/strong&gt;. Busco contribuir com soluções escaláveis, automatizadas e orientadas a dados.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

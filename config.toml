@@ -1,0 +1,41 @@
+baseURL = 'https://guilhermefreire1.netlify.app/'
+languageCode = 'pt-br'
+title = 'Guilherme Freire'
+theme = 'PaperMod'
+
+[params]
+  author = 'Guilherme Freire'
+  defaultTheme = "auto"
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowWordCount = true
+  ShowToc = true
+  TocOpen = true
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/guilhermefreire1"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/guilherme-freire-9175411ba/"
+
+[menu]
+
+  [[menu.main]]
+    name = "Sobre"
+    url = "/about"
+    weight = 1
+
+  [[menu.main]]
+    name = "Projetos"
+    url = "/projects"
+    weight = 2
+
+  [[menu.main]]
+    name = "Contato"
+    url = "/contact"
+    weight = 3
