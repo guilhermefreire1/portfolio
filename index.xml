@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Guilherme Freire</title>
+    <link>https://guilhermefreire1.netlify.app/</link>
+    <description>Recent content on Guilherme Freire</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://guilhermefreire1.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboard de Indicadores Econômicos</title>
+      <link>https://guilhermefreire1.netlify.app/projects/projeto-automacao-financeira/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://guilhermefreire1.netlify.app/projects/projeto-automacao-financeira/</guid>
+      <description>Um projeto completo de coleta, armazenamento e visualização de dados econômicos com Python, SQLite, Streamlit e APIs do Banco Central.</description>
+    </item>
+    <item>
+      <title>Contato</title>
+      <link>https://guilhermefreire1.netlify.app/contact/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://guilhermefreire1.netlify.app/contact/</guid>
+      <description>&lt;p&gt;Se você quiser entrar em contato comigo, pode me encontrar pelas redes abaixo:&lt;/p&gt;
+&lt;p&gt;📧 &lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:guilherme.freire.dev@email.com&#34;&gt;guilherme.freire.dev@email.com&lt;/a&gt;&lt;br&gt;
+💼 &lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/guilherme-freire-9175411ba/&#34;&gt;linkedin.com/in/guilhermefreire&lt;/a&gt;&lt;br&gt;
+💻 &lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/guilhermefreire1&#34;&gt;github.com/guilhermefreire1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Fique à vontade para me chamar para parcerias, oportunidades ou projetos colaborativos!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre mim</title>
+      <link>https://guilhermefreire1.netlify.app/about/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://guilhermefreire1.netlify.app/about/</guid>
+      <description>&lt;p&gt;Olá! Me chamo &lt;strong&gt;Guilherme Freire&lt;/strong&gt;, sou estudante de &lt;strong&gt;Sistemas de Informação na PUC Minas&lt;/strong&gt; e atuo na área de &lt;strong&gt;Eficiência Operacional no Inter&lt;/strong&gt;, com foco em &lt;strong&gt;engenharia e análise de dados&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Tenho experiência prática com:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 Extração e tratamento de dados em larga escala (SQL, Trino, PostgreSQL, Oracle)&lt;/li&gt;
+&lt;li&gt;🤖 Automatização de processos com Python e Alteryx&lt;/li&gt;
+&lt;li&gt;⚙️ Construção de pipelines de dados eficientes e confiáveis&lt;/li&gt;
+&lt;li&gt;📈 Visualização de dados com Tableau e Power Bi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Atualmente, estou aprofundando meus conhecimentos em &lt;strong&gt;Apache Airflow, dbt, Spark e cloud (GCP/AWS)&lt;/strong&gt;. Busco contribuir com soluções escaláveis, automatizadas e orientadas a dados.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
