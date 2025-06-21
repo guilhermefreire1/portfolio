@@ -1,4 +1,5 @@
 baseURL = 'https://guilhermefreire1.netlify.app/'
+publishDir = "public"
 languageCode = 'pt-br'
 title = 'Guilherme Freire'
 theme = 'PaperMod'
